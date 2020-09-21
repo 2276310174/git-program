@@ -61,7 +61,6 @@ public class SpecialEffects implements Runnable{
             }else {
                 index_specialImage++;
             }
-
             try {
                 Thread.sleep(100);
             } catch (InterruptedException e) {

@@ -7,9 +7,6 @@
           <element id="module-output" name="mybatis_03_JNDI" />
         </element>
         <element id="directory" name="lib">
-          <element id="archive" name="mybatis_03_JNDI-1.0-SNAPSHOT.jar">
-            <element id="module-output" name="mybatis_03_JNDI" />
-          </element>
           <element id="library" level="project" name="Maven: org.mybatis:mybatis:3.4.5" />
           <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.6" />
           <element id="library" level="project" name="Maven: log4j:log4j:1.2.12" />
